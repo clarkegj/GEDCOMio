@@ -1,6 +1,7 @@
 | [Home](index) |  [Page 2](page2) | [Page 3](page3) | [Page 4](page4) | [Page 5](page5) |
  
- # Welcome to GEDCOM.io
+ ## Welcome to GEDCOM.io
+ 
 _*Description of the purpose of this site*_
 
 You can use the [editor on GitHub](https://github.com/clarkegj/GEDCOMio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
