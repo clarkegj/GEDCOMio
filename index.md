@@ -1,4 +1,4 @@
-### [top of page]
+### -top of page-
 | [Home](index) |  [Page 2](page2) | [Page 3](page3) | [Page 4](page4) | [Page 5](page5) |
 
 # Welcome to GEDCOM.io
