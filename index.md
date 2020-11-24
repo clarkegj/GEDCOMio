@@ -1,4 +1,6 @@
-## Welcome to GEDCOM.io
+ [Home](index) |  [Page 2](page2) | [Page 3](page3) | [Page 4](page4) |[Page 5](page5) |
+ 
+ ## Welcome to GEDCOM.io
 
 You can use the [editor on GitHub](https://github.com/clarkegj/GEDCOMio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,20 +28,20 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Page 2](https://clarkegj.github.io/GEDCOMio/2ndPage).
 
-### Specifications
+
+### Topic 1
 
 The formall specifications are maintained in a version-controlled and access-controlled [repository](https://github.com/FamilySearch/GEDCOM). 
 
-### Docs
+### Topic 2
 
 TBD
 
-### Community
+### Topic 3
 
 TBD
 
-### FAQ
+### Topic 4
 
 TBD
