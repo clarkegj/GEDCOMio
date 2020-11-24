@@ -1,7 +1,7 @@
 | [Home](index) |  [Page 2](page2) | [Page 3](page3) | [Page 4](page4) | [Page 5](page5) |
 
 # Page 2 Title
-_*Description of the purpose of this page*_
+_**Description of the purpose of this page**_
 
 ### Topic 1
 
