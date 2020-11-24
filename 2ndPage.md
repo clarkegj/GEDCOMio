@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see https://clarkegj.github.io/GEDCOMio
+Return to [beginning](https://clarkegj.github.io/GEDCOMio)
 
 ### Specifications
 
