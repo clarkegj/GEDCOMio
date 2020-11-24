@@ -32,18 +32,18 @@ Syntax highlighted code block
 
 
 
-### Topic 1
-
-The formall specifications are maintained in a version-controlled and access-controlled [repository](https://github.com/FamilySearch/GEDCOM). 
-
 ### Topic 2
 
-TBD
+The formall specifications are maintained in a version-controlled and access-controlled [repository](https://github.com/FamilySearch/GEDCOM). 
 
 ### Topic 3
 
 TBD
 
 ### Topic 4
+
+TBD
+
+### Topic 5
 
 TBD
