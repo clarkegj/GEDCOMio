@@ -1,4 +1,5 @@
 theme: jekyll-theme-leap-day
-is_project_page: false
-title: myCustomTitle
-description: myCustomAndDetailedDescription
+title: GEDCOM.io
+description: Technical and programming tools and guides
+github:
+  is_project_page: false
