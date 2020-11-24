@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 Return to [beginning](https://clarkegj.github.io/GEDCOMio)
+Return to [beginning](index)
 
 ### Specifications
 
