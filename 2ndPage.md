@@ -1,4 +1,4 @@
-## Welcome to GEDCOM io page 2
+** | [Home](index) | |  [Page 2](index) | [Home](Page 3) | **
 
 You can use the [editor on GitHub](https://github.com/clarkegj/GEDCOMio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,7 +30,7 @@ Return to [beginning](https://clarkegj.github.io/GEDCOMio)
 
 Return to [beginning](index)
 
-### [Page One](index)
+
 
 ### Specifications
 
