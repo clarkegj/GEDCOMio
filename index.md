@@ -2,7 +2,7 @@
  
  ## Welcome to GEDCOM.io
  
-_*Description of the purpose of this site*_
+_**Description of the purpose of this site**_
 
 You can use the [editor on GitHub](https://github.com/clarkegj/GEDCOMio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
