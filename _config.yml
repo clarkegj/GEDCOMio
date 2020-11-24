@@ -1,2 +1,4 @@
 theme: jekyll-theme-leap-day
 is_project_page: false
+title: myCustomTitle
+description: myCustomAndDetailedDescription
