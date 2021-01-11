@@ -1,5 +1,5 @@
 ### -top of page-
-| [Home](index) |  [Page 2](page2) | [Page 3](page3) | [Page 4](page4) | [Page 5](page5) |
+| [Welcome](index) |  [Specification](page2) | [Tools](page3) | [Guides](page4) | [Community](page5) |
 
 # Page 2 Title
 _**Description of the purpose of this page**_
