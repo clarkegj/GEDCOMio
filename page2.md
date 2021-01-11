@@ -4,7 +4,7 @@
 # Specifications
 _**Description of the purpose of this page**_
 
-### Official Github Repository
+### Official GitHub Repository
 
 ### PDF Version
 
