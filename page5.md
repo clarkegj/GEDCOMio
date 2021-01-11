@@ -4,12 +4,10 @@
 # Community
 _**Description of the purpose of this page**_
 
-### Topic 1
+### Blog (feed)
 
-### Topic 2
+### Issue Tracker
 
-### Topic 3
+### Wiki
 
-### Topic 4
 
-### Topic 5
