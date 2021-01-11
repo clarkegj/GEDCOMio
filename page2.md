@@ -4,13 +4,10 @@
 # Specifications
 _**Description of the purpose of this page**_
 
-### Topic 1
+### Official Github Repository
 
-### Topic 2
+### PDF Version
 
-### Topic 3
+### HTML Version
 
-### Topic 4
-
-### Topic 5
 
