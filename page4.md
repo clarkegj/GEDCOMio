@@ -4,7 +4,7 @@
 # Guides
 _**Description of the purpose of this page**_
 
-### Compliance Requirements and Methods 
+### Compliance Requirements
 
 ### Detailed Change List
 
