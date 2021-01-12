@@ -5,6 +5,6 @@ github:
   is_project_page: false
 plugins:
   - jekyll-feed
-title: Dzhavat Ushev’s blog
-description: Welcome to my blog
-author: Dzhavat Ushev
+title: GEDCOM Blog
+description: Welcome to GEDCOM RSS Feed
+author: FamilySearch
