@@ -1,3 +1,7 @@
+<head>
+  <link rel="alternate" type="application/atom+xml" title="GEDCOM Blog" href="/feed.xml">
+</head>
+
 ### -top of page-
 | [Welcome](index) |  [Specification](page2) | [Tools](page3) | [Guides](page4) | [Community](page5) |
 
