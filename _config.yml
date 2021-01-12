@@ -3,3 +3,8 @@ title: GEDCOM.io
 description: Technical and programming tools and guides
 github:
   is_project_page: false
+plugins:
+  - jekyll-feed
+title: Dzhavat Ushev’s blog
+description: Welcome to my blog
+author: Dzhavat Ushev
