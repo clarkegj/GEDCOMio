@@ -1,5 +1,4 @@
 <head>
-  <link rel="alternate" type="application/atom+xml" title="GEDCOM Blog" href="/feed.xml">
 </head>
 
 ### -top of page-
