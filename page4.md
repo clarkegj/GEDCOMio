@@ -15,7 +15,5 @@ _**Description of the purpose of this page**_
 
 #### Added Since Version 7
 
-### Know Custom Tags
-
 ### Calendar Backgrounder
 
