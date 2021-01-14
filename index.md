@@ -2,8 +2,6 @@
   </head>
 
 ### -top of page-
-| [Welcome](index) |  [Specification](page2) | [Tools](page3) | [Guides](page4) | [Community](page5) |
-
 # Welcome to GEDCOM.io
  
 _**Description of the purpose of this site**_
