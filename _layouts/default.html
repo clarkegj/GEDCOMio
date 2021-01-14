@@ -18,13 +18,12 @@
   <body>
 
       <header>
-        <h1>FamilySearch</h1>
-        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h1>FamilySearch {{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
       <div id="banner">
-        TEST Banner Menu <span id="logo"></span>
+        | <a href="index">Welcome</a> |  <a href="page2">Specification</a> | <a href="page3">Tools</a> | <a href="page4">Guides</a> | <a href="page5">Community</a> | <span id="logo"></span>
 
        <!-- <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
         {% if site.show_downloads %}
